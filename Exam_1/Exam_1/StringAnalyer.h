@@ -1,0 +1,1 @@
+extern int judgeStringType(char* s1, char* s2);
